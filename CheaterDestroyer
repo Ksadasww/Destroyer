@@ -1,0 +1,20 @@
+print("Destroyer Injected :>")
+wait(5)
+print("Destroyer Starting in")
+warn("5")
+wait(1)
+warn("4")
+wait(1)
+warn("3")
+wait(1)
+warn("2")
+wait(1)
+warn("1")
+wait(1)
+warn("0")
+warn("Starting")
+wait(0.1)
+
+while true do
+print("Destroyer 2.0")
+end
